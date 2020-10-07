@@ -25,10 +25,14 @@
   </a>
 </p>
 
-<br><br><br>
+<br><br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/690293292964773969/763417980150480946/Untitled_Project.gif" width="256" title="Github Logo">
+</p>
+<br>
 
 <p align="center">
-  <b>Social media:</b><br>
+  <b>Social media</b><br>
   <a href="https://foxteam.ir">Website</a> |
   <a href="https://discord.gg/4E8sth5">Discord</a> |
   <a href="https://instagram.com/crazyfox.exe">Instagram</a>
