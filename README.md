@@ -27,7 +27,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/690293292964773969/763417980150480946/Untitled_Project.gif" width="256" title="Github Logo">
+  <img src="https://cdn.discordapp.com/attachments/690293292964773969/763417980150480946/Untitled_Project.gif" width="512" title="Github Logo">
 </p>
 <br>
 
