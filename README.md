@@ -26,6 +26,6 @@
 </p>
 
 <br><br><br>
-<h1 align="center">
+
 ![](https://cdn.discordapp.com/attachments/690293292964773969/763417980150480946/Untitled_Project.gif)
-</h1>
+
