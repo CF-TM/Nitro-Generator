@@ -28,7 +28,7 @@
 <br><br><br>
 
 <p align="center">
-  <b>Some Links:</b><br>
+  <b>Social media:</b><br>
   <a href="https://foxteam.ir">Website</a> |
   <a href="https://discord.gg/4E8sth5">Discord</a> |
   <a href="https://instagram.com/crazyfox.exe">Instagram</a>
