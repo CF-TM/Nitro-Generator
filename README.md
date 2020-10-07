@@ -29,9 +29,8 @@
 
 <p align="center">
   <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <https://cdn.discordapp.com/attachments/690293292964773969/763417980150480946/Untitled_Project.gif">
+  <a href="https://foxteam.ir">Website</a> |
+  <a href="https://discord.gg/4E8sth5">Discord</a> |
+  <a href="https://instagram.com/crazyfox.exe">Instagram</a>
+
 </p>
