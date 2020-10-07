@@ -1,0 +1,20 @@
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Nitro Generator.exe.config
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Nitro Generator.exe
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Nitro Generator.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Guna.UI2.dll
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\CrazyFox.csprojResolveAssemblyReference.cache
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\CrazyFox.Properties.Resources.resources
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\CrazyFox.csproj.GenerateResource.Cache
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\Nitro Generator.exe
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\Nitro Generator.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\CrazyFox.Form1.resources
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\obj\Debug\CrazyFox.csprojResolveAssemblyReference.cache
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\obj\Debug\CrazyFox.Form1.resources
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\obj\Debug\CrazyFox.csproj.GenerateResource.Cache
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\obj\Debug\Nitro Generator.exe
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\obj\Debug\Nitro Generator.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\bin\Debug\Nitro Generator.exe.config
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\bin\Debug\Nitro Generator.exe
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\bin\Debug\Nitro Generator.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\bin\Debug\Guna.UI2.dll
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\CrazyFox\CrazyFox\obj\Debug\CrazyFox.Properties.Resources.resources

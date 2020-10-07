@@ -1,0 +1,20 @@
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\DiscordNitroBypass.exe.config
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\DiscordNitroBypass.exe
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\DiscordNitroBypass.pdb
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.Form1.resources
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.exe
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csprojResolveAssemblyReference.cache
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.Form1.resources
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csproj.GenerateResource.Cache
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Guna.UI2.dll
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Nitro Generator.exe.config
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Nitro Generator.exe
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\Nitro Generator.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\Nitro Generator.exe
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\Nitro Generator.pdb
+C:\Users\GP\Desktop\DiscordNitroGenerator-master\DiscordNitroGenerator-master\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\CrazyFox.Properties.Resources.resources
