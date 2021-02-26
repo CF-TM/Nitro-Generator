@@ -34,7 +34,7 @@
 <p align="center">
   <b>Social media</b><br>
   <a href="https://foxteam.ir">Website</a> |
-  <a href="https://discord.gg/4E8sth5">Discord</a> |
+  <a href="https://discord.gg/6yyU5jvCwp">Discord</a> |
   <a href="https://instagram.com/crazyfox.exe">Instagram</a>
 
 </p>
