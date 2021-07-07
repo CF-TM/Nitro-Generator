@@ -17,7 +17,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Language-Csharp 7.0-6bf15b.svg?longCache=true&style=for-the-badge">
   </a>
-  <a href="https://opensource.org/licenses/MIT" target="_blank">
+  <a href="https://github.com/CF-TM/Nitro-Generator/blob/main/LICENSE" target="_blank">
       <img src="https://img.shields.io/badge/licence-MIT-FFA726.svg?longCache=true&style=for-the-badge">
   </a> 
   <a href="https://discord.gg/QhxE9pwwuM" target="_blank">
